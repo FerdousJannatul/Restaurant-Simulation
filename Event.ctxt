@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Event
+comment0.text=\n\ \nThis\ Class\ keeps\ track\ of\ the\ Customer\ index,\ event\ time\ and\ event\ type\n\ @author\ Jannatul\ Ferdous\n\ @version\ 10/11/2019\n
+comment1.params=
+comment1.target=Event()
+comment1.text=Constructor\ for\ objects\ of\ class\ Event
+comment2.params=c\ type
+comment2.target=Event(Customer,\ java.lang.String)
+comment3.params=
+comment3.target=int\ CustomerIndex()
+comment4.params=t
+comment4.target=void\ setTime(int)
+comment4.text=Setter\ for\ time\ event\ occurs
+comment5.params=type
+comment5.target=void\ setType(java.lang.String)
+comment5.text=Setter\ for\ event\ type
+comment6.params=e
+comment6.target=int\ compareTo(Event)
+comment6.text=comparator\ for\ events
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=Returns\ event\ details\ as\ a\ String
+numComments=8

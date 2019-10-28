@@ -1,0 +1,398 @@
+Customer 1 has arrived at time 4
+Customer 1 has placed order for 2 Pizza at time 5
+Customer 2 has arrived at time 16
+Customer 2 has placed order for 2 Pizza at time 17
+Customer 3 has arrived at time 17
+Customer 3 has placed order for 2 Pizza at time 18
+Customer 4 has arrived at time 21
+Customer 4 has placed order for 2 Pizza at time 22
+Customer 5 has arrived at time 25
+Customer 5 has placed order for 2 Pizza at time 26
+Customer 6 has arrived at time 41
+Customer 6 has placed order for 2 Pizza at time 42
+Customer 7 has arrived at time 45
+Customer 7 has placed order for 2 Pizza at time 46
+Customer 8 has arrived at time 47
+Customer 8 has placed order for 2 Pizza at time 48
+Customer 9 has arrived at time 48
+Customer 9 has placed order for 2 Pizza at time 49
+Customer 10 has arrived at time 65
+Customer 10 has placed order for 2 Pizza at time 66
+Customer 11 has arrived at time 87
+Customer 11 has placed order for 2 Pizza at time 88
+Customer 12 has arrived at time 88
+Customer 12 has placed order for 2 Pizza at time 89
+Customer 13 has arrived at time 100
+Customer 13 has placed order for 2 Pizza at time 101
+Customer 14 has arrived at time 102
+Customer 14 has placed order for 2 Pizza at time 103
+Customer 15 has arrived at time 103
+Customer 15 has placed order for 2 Pizza at time 104
+Customer 16 has arrived at time 143
+Customer 16 has placed order for 2 Pizza at time 144
+Customer 17 has arrived at time 154
+Customer 17 has placed order for 2 Pizza at time 155
+Customer 18 has arrived at time 159
+Customer 18 has placed order for 2 Pizza at time 160
+Customer 19 has arrived at time 173
+Customer 19 has placed order for 2 Pizza at time 174
+Customer 20 has arrived at time 176
+Customer 20 has placed order for 2 Pizza at time 177
+Customer 21 has arrived at time 182
+Customer 21 has placed order for 2 Pizza at time 183
+Customer 22 has arrived at time 183
+Customer 22 has placed order for 2 Pizza at time 184
+Customer 23 has arrived at time 183
+Customer 23 has placed order for 2 Pizza at time 184
+Customer 24 has arrived at time 195
+Customer 24 has placed order for 2 Pizza at time 196
+Customer 25 has arrived at time 197
+Customer 25 has placed order for 2 Pizza at time 198
+Customer 26 has arrived at time 200
+Customer 26 has placed order for 2 Pizza at time 201
+Customer 27 has arrived at time 215
+Customer 27 has placed order for 2 Pizza at time 216
+Customer 28 has arrived at time 222
+Customer 28 has placed order for 2 Pizza at time 223
+Customer 29 has arrived at time 225
+Customer 29 has placed order for 2 Pizza at time 226
+Customer 30 has arrived at time 227
+Customer 30 has placed order for 2 Pizza at time 228
+Customer 31 has arrived at time 228
+Customer 31 has placed order for 2 Pizza at time 229
+Customer 32 has arrived at time 229
+Customer 32 has placed order for 2 Pizza at time 230
+Customer 33 has arrived at time 236
+Customer 33 has placed order for 2 Pizza at time 237
+Customer 34 has arrived at time 237
+Customer 34 has placed order for 2 Pizza at time 238
+Customer 35 has arrived at time 240
+Customer 35 has placed order for 2 Pizza at time 241
+Customer 36 has arrived at time 241
+Customer 36 has placed order for 2 Pizza at time 242
+Customer 37 has arrived at time 251
+Customer 37 has placed order for 2 Pizza at time 252
+Customer 38 has arrived at time 262
+Customer 38 has placed order for 2 Pizza at time 263
+Customer 39 has arrived at time 268
+Customer 39 has placed order for 2 Pizza at time 269
+Customer 40 has arrived at time 278
+Customer 40 has placed order for 2 Pizza at time 279
+Customer 41 has arrived at time 284
+Customer 41 has placed order for 2 Pizza at time 285
+Customer 42 has arrived at time 285
+Customer 42 has placed order for 2 Pizza at time 286
+Customer 43 has arrived at time 290
+Customer 43 has placed order for 2 Pizza at time 291
+Customer 44 has arrived at time 295
+Customer 44 has placed order for 2 Pizza at time 296
+Customer 45 has arrived at time 303
+Customer 45 has placed order for 2 Pizza at time 304
+Customer 46 has arrived at time 331
+Customer 46 has placed order for 2 Pizza at time 332
+Customer 47 has arrived at time 332
+Customer 47 has placed order for 2 Pizza at time 333
+Customer 48 has arrived at time 342
+Customer 48 has placed order for 2 Pizza at time 343
+Customer 49 has arrived at time 347
+Customer 49 has placed order for 2 Pizza at time 348
+Customer 50 has arrived at time 349
+Customer 50 has placed order for 2 Pizza at time 350
+Customer 51 has arrived at time 352
+Customer 51 has placed order for 2 Pizza at time 353
+Customer 52 has arrived at time 353
+Customer 52 has placed order for 2 Pizza at time 354
+Customer 53 has arrived at time 357
+Customer 53 has placed order for 2 Pizza at time 358
+Customer 54 has arrived at time 357
+Customer 54 has placed order for 2 Pizza at time 358
+Customer 55 has arrived at time 358
+Customer 55 has placed order for 2 Pizza at time 359
+Customer 56 has arrived at time 376
+Customer 56 has placed order for 2 Pizza at time 377
+Customer 57 has arrived at time 377
+Customer 57 has placed order for 2 Pizza at time 378
+Customer 58 has arrived at time 395
+Customer 58 has placed order for 2 Pizza at time 396
+Customer 59 has arrived at time 395
+Customer 59 has placed order for 2 Pizza at time 396
+Customer 60 has arrived at time 403
+Customer 60 has placed order for 2 Pizza at time 404
+Customer 61 has arrived at time 418
+Customer 61 has placed order for 2 Pizza at time 419
+Customer 62 has arrived at time 420
+Customer 62 has placed order for 2 Pizza at time 421
+Customer 63 has arrived at time 432
+Customer 63 has placed order for 2 Pizza at time 433
+Customer 64 has arrived at time 437
+Customer 64 has placed order for 2 Pizza at time 438
+Customer 65 has arrived at time 437
+Customer 65 has placed order for 2 Pizza at time 438
+Customer 66 has arrived at time 460
+Customer 66 has placed order for 2 Pizza at time 461
+Customer 67 has arrived at time 467
+Customer 67 has placed order for 2 Pizza at time 468
+Customer 68 has arrived at time 472
+Customer 68 has placed order for 2 Pizza at time 473
+Customer 69 has arrived at time 477
+Customer 69 has placed order for 2 Pizza at time 478
+Customer 70 has arrived at time 478
+Customer 70 has placed order for 2 Pizza at time 479
+Customer 71 has arrived at time 482
+Customer 71 has placed order for 2 Pizza at time 483
+Customer 72 has arrived at time 524
+Customer 72 has placed order for 2 Pizza at time 525
+Customer 73 has arrived at time 531
+Customer 73 has placed order for 2 Pizza at time 532
+Customer 74 has arrived at time 533
+Customer 74 has placed order for 2 Pizza at time 534
+Customer 75 has arrived at time 535
+Customer 75 has placed order for 2 Pizza at time 536
+Customer 76 has arrived at time 547
+Customer 76 has placed order for 2 Pizza at time 548
+Customer 77 has arrived at time 547
+Customer 77 has placed order for 2 Pizza at time 548
+Customer 78 has arrived at time 551
+Customer 78 has placed order for 2 Pizza at time 552
+Customer 79 has arrived at time 555
+Customer 79 has placed order for 2 Pizza at time 556
+Customer 80 has arrived at time 558
+Customer 80 has placed order for 2 Pizza at time 559
+Customer 81 has arrived at time 560
+Customer 81 has placed order for 2 Pizza at time 561
+Customer 82 has arrived at time 561
+Customer 82 has placed order for 2 Pizza at time 562
+Customer 83 has arrived at time 566
+Customer 83 has placed order for 2 Pizza at time 567
+Customer 84 has arrived at time 573
+Customer 84 has placed order for 2 Pizza at time 574
+Customer 85 has arrived at time 578
+Customer 85 has placed order for 2 Pizza at time 579
+Customer 86 has arrived at time 589
+Customer 86 has placed order for 2 Pizza at time 590
+Customer 87 has arrived at time 605
+Customer 87 has placed order for 2 Pizza at time 606
+Customer 88 has arrived at time 606
+Customer 88 has placed order for 2 Pizza at time 607
+Customer 89 has arrived at time 612
+Customer 89 has placed order for 2 Pizza at time 613
+Customer 90 has arrived at time 614
+Customer 90 has placed order for 2 Pizza at time 615
+Customer 91 has arrived at time 617
+Customer 91 has placed order for 2 Pizza at time 618
+Customer 92 has arrived at time 618
+Customer 92 has placed order for 2 Pizza at time 619
+Customer 93 has arrived at time 628
+Customer 93 has placed order for 2 Pizza at time 629
+Customer 94 has arrived at time 643
+Customer 94 has placed order for 2 Pizza at time 644
+Customer 95 has arrived at time 648
+Customer 95 has placed order for 2 Pizza at time 649
+Customer 96 has arrived at time 651
+Customer 96 has placed order for 2 Pizza at time 652
+Customer 97 has arrived at time 679
+Customer 97 has placed order for 2 Pizza at time 680
+Customer 98 has arrived at time 682
+Customer 98 has placed order for 2 Pizza at time 683
+Customer 99 has arrived at time 700
+Customer 99 has placed order for 2 Pizza at time 701
+Customer 100 has arrived at time 714
+Customer 100 has placed order for 2 Pizza at time 715
+Customer 1 has been served 
+Customer 2 has been served 
+Customer 3 has been added to queue at time 
+Customer 4 has been added to queue at time 
+Customer 5 has been added to queue at time 
+Customer 3 has been served at time 26
+Customer 4 has been served at time 38
+Customer 6 has been added to queue at time 
+Customer 7 has been added to queue at time 
+Customer 5 has been served at time 47
+Customer 8 has been added to queue at time 
+Customer 9 has been added to queue at time 
+Customer 6 has been served at time 59
+Customer 10 has been added to queue at time 
+Customer 7 has been served at time 68
+Customer 8 has been served at time 80
+Customer 11 has been added to queue at time 
+Customer 9 has been served at time 89
+Customer 12 has been added to queue at time 
+Customer 10 has been served at time 101
+Customer 13 has been added to queue at time 
+Customer 14 has been added to queue at time 
+Customer 15 has been added to queue at time 
+Customer 11 has been served at time 110
+Customer 12 has been served at time 122
+Customer 13 has been served at time 131
+Customer 14 has been served at time 143
+Customer 16 has been added to queue at time 
+Customer 15 has been served at time 152
+Customer 17 has been added to queue at time 
+Customer 18 has been added to queue at time 
+Customer 16 has been served at time 164
+Customer 17 has been served at time 173
+Customer 19 has been added to queue at time 
+Customer 20 has been added to queue at time 
+Customer 21 has been added to queue at time 
+Customer 22 has been added to queue at time 
+Customer 23 has been added to queue at time 
+Customer 18 has been served at time 185
+Customer 19 has been served at time 194
+Customer 24 has been added to queue at time 
+Customer 25 has been added to queue at time 
+Customer 26 has been added to queue at time 
+Customer 20 has been served at time 206
+Customer 21 has been served at time 215
+Customer 27 has been added to queue at time 
+Customer 28 has been added to queue at time 
+Customer 29 has been added to queue at time 
+Customer 22 has been served at time 227
+Customer 30 has been added to queue at time 
+Customer 31 has been added to queue at time 
+Customer 32 has been added to queue at time 
+Customer 23 has been served at time 236
+Customer 33 has been added to queue at time 
+Customer 34 has been added to queue at time 
+Customer 35 has been added to queue at time 
+Customer 36 has been added to queue at time 
+Customer 24 has been served at time 248
+Customer 37 has been added to queue at time 
+Customer 25 has been served at time 257
+Customer 38 has been added to queue at time 
+Customer 26 has been served at time 269
+Customer 39 has been added to queue at time 
+Customer 27 has been served at time 278
+Customer 40 has been added to queue at time 
+Customer 41 has been added to queue at time 
+Customer 42 has been added to queue at time 
+Customer 28 has been served at time 290
+Customer 43 has been added to queue at time 
+Customer 44 has been added to queue at time 
+Customer 29 has been served at time 299
+Customer 45 has been added to queue at time 
+Customer 30 has been served at time 311
+Customer 31 has been served at time 320
+Customer 46 has been added to queue at time 
+Customer 32 has been served at time 332
+Customer 47 has been added to queue at time 
+Customer 33 has been served at time 341
+Customer 48 has been added to queue at time 
+Customer 49 has been added to queue at time 
+Customer 50 has been added to queue at time 
+Customer 51 has been added to queue at time 
+Customer 34 has been served at time 353
+Customer 52 has been added to queue at time 
+Customer 53 has been added to queue at time 
+Customer 54 has been added to queue at time 
+Customer 55 has been added to queue at time 
+Customer 35 has been served at time 362
+Customer 36 has been served at time 374
+Customer 56 has been added to queue at time 
+Customer 57 has been added to queue at time 
+Customer 37 has been served at time 383
+Customer 38 has been served at time 395
+Customer 58 has been added to queue at time 
+Customer 59 has been added to queue at time 
+Customer 39 has been served at time 404
+Customer 60 has been added to queue at time 
+Customer 40 has been served at time 416
+Customer 61 has been added to queue at time 
+Customer 62 has been added to queue at time 
+Customer 41 has been served at time 425
+Customer 63 has been added to queue at time 
+Customer 42 has been served at time 437
+Customer 65 has been added to queue at time 
+Customer 64 has been added to queue at time 
+Customer 43 has been served at time 446
+Customer 44 has been served at time 458
+Customer 66 has been added to queue at time 
+Customer 45 has been served at time 467
+Customer 67 has been added to queue at time 
+Customer 68 has been added to queue at time 
+Customer 69 has been added to queue at time 
+Customer 70 has been added to queue at time 
+Customer 46 has been served at time 479
+Customer 71 has been added to queue at time 
+Customer 47 has been served at time 488
+Customer 48 has been served at time 500
+Customer 49 has been served at time 509
+Customer 50 has been served at time 521
+Customer 72 has been added to queue at time 
+Customer 51 has been served at time 530
+Customer 73 has been added to queue at time 
+Customer 74 has been added to queue at time 
+Customer 75 has been added to queue at time 
+Customer 52 has been served at time 542
+Customer 77 has been added to queue at time 
+Customer 76 has been added to queue at time 
+Customer 53 has been served at time 551
+Customer 78 has been added to queue at time 
+Customer 79 has been added to queue at time 
+Customer 80 has been added to queue at time 
+Customer 81 has been added to queue at time 
+Customer 82 has been added to queue at time 
+Customer 54 has been served at time 563
+Customer 83 has been added to queue at time 
+Customer 55 has been served at time 572
+Customer 84 has been added to queue at time 
+Customer 85 has been added to queue at time 
+Customer 56 has been served at time 584
+Customer 86 has been added to queue at time 
+Customer 57 has been served at time 593
+Customer 58 has been served at time 605
+Customer 87 has been added to queue at time 
+Customer 88 has been added to queue at time 
+Customer 89 has been added to queue at time 
+Customer 59 has been served at time 614
+Customer 90 has been added to queue at time 
+Customer 91 has been added to queue at time 
+Customer 92 has been added to queue at time 
+Customer 60 has been served at time 626
+Customer 93 has been added to queue at time 
+Customer 61 has been served at time 635
+Customer 94 has been added to queue at time 
+Customer 62 has been served at time 647
+Customer 95 has been added to queue at time 
+Customer 96 has been added to queue at time 
+Customer 63 has been served at time 656
+Customer 65 has been served at time 668
+Customer 64 has been served at time 677
+Customer 97 has been added to queue at time 
+Customer 98 has been added to queue at time 
+Customer 66 has been served at time 689
+Customer 67 has been served at time 698
+Customer 99 has been added to queue at time 
+Customer 68 has been served at time 710
+Customer 100 has been added to queue at time 
+Customer 69 has been served at time 719
+Customer 70 has been served at time 731
+Customer 71 has been served at time 740
+Customer 72 has been served at time 752
+Customer 73 has been served at time 761
+Customer 74 has been served at time 773
+Customer 75 has been served at time 782
+Customer 77 has been served at time 794
+Customer 76 has been served at time 803
+Customer 78 has been served at time 815
+Customer 79 has been served at time 824
+Customer 80 has been served at time 836
+Customer 81 has been served at time 845
+Customer 82 has been served at time 857
+Customer 83 has been served at time 866
+Customer 84 has been served at time 878
+Customer 85 has been served at time 887
+Customer 86 has been served at time 899
+Customer 87 has been served at time 908
+Customer 88 has been served at time 920
+Customer 89 has been served at time 929
+Customer 90 has been served at time 941
+Customer 91 has been served at time 950
+Customer 92 has been served at time 962
+Customer 93 has been served at time 971
+Customer 94 has been served at time 983
+Customer 95 has been served at time 992
+Customer 96 has been served at time 1004
+Customer 97 has been served at time 1013
+Customer 98 has been served at time 1025
+Customer 99 has been served at time 1034
+Customer 100 has been served at time 1046

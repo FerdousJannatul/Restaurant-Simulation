@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\n\ This\ Class\ stores\ data\ associated\ with\ each\ customer\ and\ has\ methods\ to\ access\ them\n\n\ @author\ Jannatul\ Ferdous\n\ @version\ 10/11/2019\n
+comment1.params=t\ index\ numOrder
+comment1.target=Customer(int,\ int,\ int)
+comment1.text=Constructor\ for\ Customer\ class
+comment2.params=x
+comment2.target=void\ setDepature(int)
+comment2.text=Setter\ for\ depature\ time
+comment3.params=x
+comment3.target=void\ setTimeServed(int)
+comment3.text=Setter\ for\ time\ served
+comment4.params=
+comment4.target=int\ waitTime()
+comment4.text=Calculates\ and\ returns\ wait\ time
+comment5.params=
+comment5.target=int\ getIndex()
+comment5.text=Returns\ customerIndex
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=Returns\ all\ customer\ info\ as\ a\ string.
+numComments=7

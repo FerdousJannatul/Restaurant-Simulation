@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\n\ This\ Class\ runs\ the\ simulations\n\n\ @author\ Jannatul\ Ferdous\n\ @version\ 10/11/2019\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+numComments=3
